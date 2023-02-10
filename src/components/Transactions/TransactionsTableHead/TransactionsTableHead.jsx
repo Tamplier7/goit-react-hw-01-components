@@ -1,4 +1,3 @@
-
 import css from './TransactionsTableHead.module.css';
 
 const TransactionsTableHead = () => {

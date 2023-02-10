@@ -1,4 +1,3 @@
-
 import TransactionsTableBody from '../TransactionsTableBody/TransactionsTableBody';
 import TransactionsTableHead from '../TransactionsTableHead/TransactionsTableHead';
 import css from './TransactionsTable.module.css';

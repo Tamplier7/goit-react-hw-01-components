@@ -1,0 +1,28 @@
+.statsList {
+  display: flex;
+
+  background-color: #f4f6f9;
+  border-top: 1px solid #e8ecf1;
+}
+
+.statsItem {
+  flex-basis: calc(100% / 3);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+}
+
+.statsItem:not(:last-child) {
+  border-right: 1px solid #e8ecf1;
+}
+
+.statsAmount {
+  font-weight: bold;
+}
+
+.statsName {
+  display: block;
+}

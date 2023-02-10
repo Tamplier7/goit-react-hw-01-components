@@ -1,16 +1,16 @@
 .description {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .avatar {
-    width: 200px;
-    padding-top: 30px;
+  width: 200px;
+  padding-top: 30px;
 }
 
 .name {
-    font-weight: bold;
+  font-weight: bold;
 }

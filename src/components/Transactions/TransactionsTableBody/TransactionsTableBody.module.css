@@ -1,19 +1,19 @@
 .tableData {
-    padding: 0;
-    width: calc(100% / 3);
-    height: 40px;
-    text-align: center;
-    text-transform: capitalize;
+  padding: 0;
+  width: calc(100% / 3);
+  height: 40px;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .tableData:not(:last-child) {
-    border-right: 1px solid #d8dbdd;
+  border-right: 1px solid #d8dbdd;
 }
 
 .tableRow {
-    background-color: #edf1f3;
+  background-color: #edf1f3;
 }
 
 .tableRow:nth-child(2n) {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
