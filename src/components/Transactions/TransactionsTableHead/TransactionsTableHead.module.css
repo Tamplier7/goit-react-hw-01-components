@@ -1,0 +1,15 @@
+.tableHeadRow {
+    background-color: #55bad2;
+}
+
+.tableHeadData {
+    padding: 0;
+    width: calc(100% / 3);
+    height: 40px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.tableHeadData:not(:last-child) {
+    border-right: 1px solid white;
+}
